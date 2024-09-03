@@ -1,5 +1,3 @@
-
-
 List<String> demoBigImages = [
   "assets/images/big_1.png",
   "assets/images/big_2.png",
@@ -23,7 +21,7 @@ List<Map<String, dynamic>> demoMediumCardData = [
     "delivertTime": 30,
   },
   {
-    "name": "McDonald’s",
+    "name": "McDonald's",
     "image": "assets/images/medium_3.png",
     "location": "Colarodo, San Francisco",
     "rating": 4.8,
